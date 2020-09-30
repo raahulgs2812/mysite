@@ -102,13 +102,12 @@ p {
 
 .footer-link {
   margin: 10px;
-  font-size: 20px;
 }
 
 .copyright {
   color: #EAF6F6;
   padding-top: 15px;
-  font-size: 15px;
+  font-size: 0.75rem;
 }
 
 .above-contact{
